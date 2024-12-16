@@ -1,0 +1,6 @@
+# ninja log v6
+24	113	7554478501910181	CMakeFiles/merge.dir/main.c.obj	fe20c158ada2fb78
+114	241	7554478502808544	merge.exe	aaaefc9cde1560fd
+36	458	7560289687147482	build.ninja	9efb75d87faa465b
+7	224	7560294069384292	CMakeFiles/merge.dir/main.c.obj	fe20c158ada2fb78
+224	553	7560294071562986	merge.exe	aaaefc9cde1560fd
